@@ -40,7 +40,7 @@ The commit hash and list of programs used should be included if applicable.
  - Active Granta Design license and database
  - Windows or linux workstation. Currently the SDK is limited to Windows and some Linux operating systems.  **Mac operating systems will not be unable to use these scripts.**
  - Workstation Prerequisites:
-  - Python Software development kit (SDK) from Granta Design. For NCAL users, this is available at http://wsancalp01.nist.gov/NCAL/UpdatePackages/.  All other users will need to contact Granta Design.
+  - Python Software development kit (SDK) from Granta Design, version 1.4 or later. For NCAL users, this is available at http://wsancalp01.nist.gov/NCAL/UpdatePackages/.  All other users will need to contact Granta Design.
   - Python 3.5 or later
   - Package Dependencies (included as a conda .yml file "NIST-GrantaDesignSDK_.yml")
   - Jupyter Notebook
